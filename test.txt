@@ -3,3 +3,9 @@ hallo git!
 Dies ist version 2.
 
 Dies wiederum v34.
+
+ ...
+
+Und jetzt habe ich diese Datei von Struppi aus verändert. 
+
+(Wie heißt Struppi jetzt eigentlich in echt?)
